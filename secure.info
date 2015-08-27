@@ -1,4 +1,4 @@
-name = Security
+name = Secure
 core = 7.x
 package = Checkpoint
 project = Checkpoint
