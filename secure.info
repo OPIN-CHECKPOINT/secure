@@ -10,5 +10,7 @@ dependencies[] = common
 ; Contributed Modules
 dependencies[] = honeypot
 dependencies[] = password_policy
+dependencies[] = password_policy_password_tab
 dependencies[] = seckit
+dependencies[] = username_enumeration_prevention
 
